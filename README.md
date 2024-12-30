@@ -6,3 +6,5 @@ we have tested 4 different models and found that randomforest regressor giving u
 
 Hope this files helps.
 Thank you 
+screenshots of the project:
+![1](https://github.com/user-attachments/assets/79bdf01a-9325-4583-a49b-6ee53ab0fdc9)
